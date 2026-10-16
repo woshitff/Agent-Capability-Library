@@ -1,0 +1,25 @@
+
+version: 1
+
+name: Agent Capability Library
+description: A personal index of reusable tools, methods, and proven solutions for AI agents.
+
+capabilities:
+  - id: website-to-raw-data-xhs
+    name: Xiaohongshu Data Collection
+    category: data-collection
+    description: >
+      Collect structured raw data from Xiaohongshu using
+      HTTP APIs, request signing, and session management.
+      Provides reusable insights into website data extraction.
+
+    tags:
+      - web-scraping
+      - data-collection
+      - http-api
+      - reverse-engineering
+
+    source: https://github.com/cv-cat/Spider_XHS
+    details: skills/website-to-raw-data-xhs.md
+
+    verification: tested
