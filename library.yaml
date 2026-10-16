@@ -22,4 +22,4 @@ capabilities:
     source: https://github.com/cv-cat/Spider_XHS
     details: skills/website-to-raw-data-xhs.md
 
-    verification: tested
+    verification: reproduced
