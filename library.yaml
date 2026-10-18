@@ -23,3 +23,39 @@ capabilities:
     details: skills/website-to-raw-data-xhs.md
 
     verification: reproduced
+
+  - id: profile-filtering
+    name: AI News Editorial Filtering
+    category: research-curation
+    description: >
+      Select substantive resources on AI epistemology and human agency using relevance, full-text reading, attribution, and evidence requirements.
+    tags:
+      - editorial-filtering
+      - ai-epistemology
+      - human-agency
+    details: skills/profile-filtering.md
+    verification: used-in-project
+
+  - id: summarizer
+    name: Deep Digest Summarizer
+    category: reading-and-summarization
+    description: >
+      Produce self-contained bilingual digests that reconstruct the core problem, reasoning, concrete examples, and conclusions for a statistics-trained reader.
+    tags:
+      - summarization
+      - bilingual
+      - concept-explanation
+    details: skills/summarizer.md
+    verification: used-in-project
+
+  - id: polisher
+    name: Native Chinese Academic Polisher
+    category: writing-and-editing
+    description: >
+      Polish Chinese summaries for natural syntax and rhythm while preserving reasoning, examples, explanations, and technical anchors.
+    tags:
+      - chinese-writing
+      - academic-editing
+      - faithful-rewriting
+    details: skills/polisher.md
+    verification: used-in-project
