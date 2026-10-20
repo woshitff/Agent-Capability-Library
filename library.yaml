@@ -59,3 +59,21 @@ capabilities:
       - faithful-rewriting
     details: skills/polisher.md
     verification: used-in-project
+
+  - id: wechat-chat-export-local-asr
+    name: WeChat Chat Export and Local Speech Transcription
+    category: data-collection
+    description: >
+      Export locally available WeChat chat history on Windows and
+      transcribe voice messages with local SenseVoice.
+      Chat export and local transcription were verified by the user;
+      other upstream features have not been individually verified.
+    tags:
+      - wechat
+      - local-data-export
+      - windows
+      - speech-to-text
+      - sensevoice
+    source: https://github.com/zhuzhangxue/wechat-chat-export
+    details: skills/wechat-chat-export-local-asr.md
+    verification: reproduced
